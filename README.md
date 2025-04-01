@@ -8,8 +8,8 @@ This code is built using raw HTML, CSS, and JavaScript, leveraging the ArcGIS AP
 
 ## Features
 
-- **Interactive Map**: Displays forest cover data in Africa, centered on Nigeria, with zoom, pan, and search capabilities.
-- **Sidebar Indicators**: Shows total forest cover (673.6M ha) and detailed forest land statistics for Nigeria.
+- **Interactive Map**: Displays forest cover data in Africa with zoom, pan, and search capabilities.
+- **Sidebar Indicators**: Shows total forest cover (673.6M ha) and detailed forest land statistics for Africa.
 - **Widgets**: Includes Search, Legend, Layer List, Basemap Gallery, and Scale Bar for map interaction.
 - **Responsive Design**: Matches the dark theme and layout of the original ArcGIS Dashboard.
 - **Static Hosting**: Can be deployed on GitHub Pages without server-side dependencies.
@@ -27,11 +27,11 @@ You can view the live demo of this replicated dashboard on GitHub Pages:https://
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/forestry-carbon-offsets.git
+   git clone https://github.com/UmarKatongole/forestry-carbon-offsets.git
    cd forestry-carbon-offsets
 
    Credits
 Original Dashboard: Created by Katongole Umar Geoyouthmappers, Uganda, using ArcGIS Dashboards.
 Data Sources: Esri, TomTom, Garmin, FAO, NOAA, USGS, MDAUS.
-Replica: Built by Katongole Umar.
+Repository: Built by Katongole Umar.
 Powered by: ArcGIS API for JavaScript and Esri.
