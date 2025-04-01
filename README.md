@@ -1,6 +1,6 @@
 # Forestry Carbon Offsets in Africa Dashboard
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](screenshot.png.png)
 
 This repository contains a  version of the "Forestry Carbon Offsets in Africa" dashboard, originally created using ArcGIS Dashboards. The original dashboard, accessible at [https://www.arcgis.com/apps/dashboards/b5643ccc67f14c0b8ade84701720ba25](https://www.arcgis.com/apps/dashboards/b5643ccc67f14c0b8ade84701720ba25), was developed by Katongole Umar Geoyouthmappers (Same Author), Uganda, to showcase forest carbon offset areas in Africa, with a focus on improving forestry and wildlife conservation.
 
